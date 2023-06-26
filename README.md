@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quangsinhdev
-- 🌱 I’m currently learning C++ , C# , Java , Javascript
-- 💞️ My current job: Social Media Ads, Analyst, Search Engine Optimization, Software Development
+- 🌱 I’m currently learning C++ , Java , Dart , Flutter
+- 💞️ My current job: Social Media Ads, Analyst, Search Engine Optimization, Mobile Developer , Java Developer , Android Developer
 
 
 <!---
