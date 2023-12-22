@@ -1,7 +1,7 @@
 - 👋 Hello World
 - 🌱 Software Engineer
 - 💞️ Java, C++ (base), ReactJS, HTML, CSS, JS
-- Location: Ho Chi Minh City, Vietnam
+- Location: Ho Chi Minh City, Vietnam </br>
 This is where my personal projects are stored and where I share the Source Code I have for reference purposes.
 
 <!---
